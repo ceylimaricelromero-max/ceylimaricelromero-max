@@ -5,7 +5,7 @@ Soy un desarrollador en formación actualmente cursando un bootcamp intensivo de
 
 **📍Ubicado en:**  San martín, san salvador. 
 **🎯Objetivo actual:** Convertirme en Desarrollador [Frontend/Backend/Fullstack] y contribuir a proyectos de código abierto.
-**☕Dato curioso:** [Ejemplo: Aprendo mejor con música Lo-fi o soy un experto haciendo café].
+**☕Dato curioso:** Ejemplo: Aprendo mejor con música Lo-fi o soy un experto haciendo café.
  
 * ** 📚 Tecnologías y Aprendizaje **
 
@@ -17,7 +17,7 @@ Actualmente estoy expandiendo mi stack tecnológico con las herramientas más de
  
 💻 Proyecto Destacado (Bootcamp)
 
-[Autmatización y diseño de sitios web.]
+**Autmatización y diseño de sitios web.**
 **En el mundo del desarrollo, no solo importa que el sitio se vea bien, sino qué tan rápido y eficiente es crearlo y mantenerlo.**
 **1. La combinación ganadora 💡**
 Diseño: Es la parte visual (UI) y la experiencia del usuario (UX). Es lo que el cliente ve: colores, tipografía, disposición de elementos.
