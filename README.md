@@ -3,17 +3,17 @@
  🚀 Sobre mí
 Soy un desarrollador en formación actualmente cursando un bootcamp intensivo de programación. Me apasiona transformar ideas complejas en interfaces intuitivas y funcionales. Mi enfoque principal es el aprendizaje continuo y la resolución de problemas mediante el desarrollo de software, con un interés especial en la arquitectura de aplicaciones modernas y la optimización de la experiencia del usuario.
 
-# **📍Ubicado en:**  San martín, san salvador. 
-# **🎯Objetivo actual:** Convertirme en Desarrollador Frontend/Backend/Fullstack y contribuir a proyectos de código abierto.
-# **☕Dato curioso:** Ejemplo: Aprendo mejor con música Lo-fi o soy un experto haciendo café.
+ **📍Ubicado en:**  San martín, san salvador. 
+**🎯Objetivo actual:** Convertirme en Desarrollador Frontend/Backend/Fullstack y contribuir a proyectos de código abierto.
+ **☕Dato curioso:** Ejemplo: Aprendo mejor con música Lo-fi o soy un experto haciendo café.
  
 * ** 📚 Tecnologías y Aprendizaje **
 
 Actualmente estoy expandiendo mi stack tecnológico con las herramientas más demandadas del mercado:
 
-# **Lenguajes:** JavaScript (ES6+), HTML5, CSS3.
-# **Frameworks/Librerías:** [Ej: React, Node.js, Express].
-# 🌱 Aprendiendo ahora:  Git, GitHub, VS Code.
+ **Lenguajes:** JavaScript (ES6+), HTML5, CSS3.
+ **Frameworks/Librerías:** [Ej: React, Node.js, Express].
+ 🌱 Aprendiendo ahora:  Git, GitHub, VS Code.
  
 💻 Proyecto Destacado (Bootcamp)
 
